@@ -1,9 +1,4 @@
-### Hi 👋 My name is Sevastian Dvortsov.
-
-Passionate about programming, web, and open source.
-
-Former Sound Engineer. Now plowing open spaces in search of interesting IT tasks.
-I’m currently learning Web Technologi and intrestings Frontend development.
+### Привет 👋 Меня зовут Севастьян Дворцов. Я Junior Frontend-разработчик.
 
 ---
 ### Hard skills:
@@ -11,7 +6,7 @@ I’m currently learning Web Technologi and intrestings Frontend development.
 
 ![ State GitHub ](https://github-readme-stats.vercel.app/api?username=dvortsovs&show_icons=true&hide=stars,issues,contribs&theme=nord) ![ Top langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=dvortsovs&layout=compact&theme=nord&card_width=214)
 
-📫 How to reach me:
+📫 Мои контакты:
 [![ Email ](https://shields.io/badge/sevastyan.dvortsov@mail.ru-fc0?logo=mail.ru&style=flat-square&logoColor=000&labelColor=f0efe7)](mailto:sevastyan.dvortsov@mail.ru)
 [![ Telegram ](https://shields.io/badge/Telegram-Sevastian-26A5E4?logo=Telegram&style=flat-square&logoColor=000&labelColor=f0efe7)](https://t.me/fane28)
 
