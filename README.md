@@ -21,6 +21,7 @@
 
  ----
 ### 🏆 ***Моя статистика:***
+[![codewars](https://www.codewars.com/users/fane28/badges/large)](https://www.codewars.com/users/fane28)
 
 <img width="99.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dvortsovs&theme=github_dark">
 
