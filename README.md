@@ -21,7 +21,7 @@
 
  ----
 ### 🏆 ***Моя статистика:***
-<a href="https://www.codewars.com/users/fane28/">
+<a href="https://www.codewars.com/users/fane28/" target="_blank">
 <img width="99.5%" src="https://www.codewars.com/users/fane28/badges/large">
 </a>
 
